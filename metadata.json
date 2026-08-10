@@ -1,0 +1,8 @@
+{
+  "name": "Remix PAL — Progressive Assisted Learning",
+  "description": "AI-assisted adaptive learning platform for Grade 10 Mathematics, Physics, and Chemistry",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
